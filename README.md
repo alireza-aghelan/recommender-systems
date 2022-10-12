@@ -18,6 +18,8 @@ Section 2: Content-Based Recommendation
 
 in the next step, we performed information filtering or Content-based recommendation on the animations that a user has watched, and we recommended a new animation to each user according to the information available from different animations.
 
+![1_P63ZaFHlssabl34XbJgong](https://user-images.githubusercontent.com/47056654/195469025-128da348-9604-4f6c-b7c1-f98eb90116b8.jpg)
+
 Section 3: in the last part, we tried to get a better result than the previous two methods by using another method. 
 
 in this part, we can use the combination of previous concepts, creative methods resulting from the combination of previous methods, machine learning, etc.

@@ -11,6 +11,8 @@ Section 1: Collaborative Filtering
 
 at first, we implemented the collaborative filtering method on the scores given by users to different animations, and based on them, we proposed different animations to the user.
 
+![1_3ALliiz9hG79_2xopzgyrQ](https://user-images.githubusercontent.com/47056654/195466152-dd566fac-c788-46c2-abf1-fba14b47eb96.jpg)
+
 Section 2: Content-Based Recommendation 
 
 in the next step, we performed information filtering or Content-based recommendation on the animations that a user has watched, and we recommended a new animation to each user according to the information available from different animations.

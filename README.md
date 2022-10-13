@@ -20,6 +20,7 @@ Section 2: Content-Based Recommendation
 
 in the next step, we performed information filtering or Content-based recommendation on the animations that a user has watched, and we recommended a new animation to each user according to the information available from different animations.
 
+
 ![recommendation-system11](https://user-images.githubusercontent.com/47056654/195469234-5b738a5f-c9eb-4429-9ac8-9f7dea6362a6.jpg)
 
 Section 3: in the last part, we tried to get a better result than the previous two methods by using another method. 

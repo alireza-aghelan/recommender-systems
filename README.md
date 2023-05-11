@@ -22,5 +22,5 @@ In this section, we perform the content-based recommendation on the animes that 
 
 # Section 3 
 
-In the last part, we try to get a better result than the previous two methods by using a combination of content-based recommendation and collaborative filtering methods. We start with the content-based recommendation and obtain the IDs of animes that are related to the user's interest. In the next step, we limit the rating dataset with these IDs then we apply the content-based collaborative filtering to the limited dataset.
+In the last part, we try to get a better result than the previous two methods by using a combination of content-based recommendation and collaborative filtering methods. We start with the content-based recommendation and obtain the IDs of animes that are related to the user's interest. In the next step, in the rating dataset, we keep the records that contain these IDs and delete the rest. Finally, we implement collaborative filtering to the smaller rating dataset.
 

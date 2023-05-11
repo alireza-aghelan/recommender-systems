@@ -8,8 +8,6 @@ https://drive.google.com/file/d/1qgvmZEOJiyb2Lkh3VSPwjA6xVbFyZhWT/view
 
 This dataset includes anime and rating files. The anime file contains the information of a large number of animations and the rating file contains the points that users have given to different animations.
 
-Note: in order to use the data in the dataset, various pre-processing is required
-
 Section 1: Collaborative Filtering
 
 At first, we implemented the collaborative filtering method on the scores given by users to different animations, and based on them, we proposed different animations to the user.

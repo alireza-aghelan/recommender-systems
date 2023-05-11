@@ -27,5 +27,5 @@ Section 3: in the last part, we tried to get a better result than the previous t
 
 in this part, we can use the combination of previous concepts, creative methods resulting from the combination of previous methods, machine learning, etc.
 
-We used a combination of content-Based recommendation and collaborative filtering methods. We started with Content-Based Recommendation and obtained code movies that are related to the user's interest. Now we have the code of the movies that are related to the user's interest. In the next step, we limit the rating dataset with these codes then we apply collaborative filtering to the dataset.
+We used a combination of content-based recommendation and collaborative filtering methods. We started with the content-based recommendation and obtained code movies that are related to the user's interest. Now we have the code of the movies that are related to the user's interest. In the next step, we limit the rating dataset with these codes then we apply collaborative filtering to the limited dataset.
 

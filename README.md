@@ -6,7 +6,7 @@ The download link of the dataset:
 
 https://drive.google.com/file/d/1qgvmZEOJiyb2Lkh3VSPwjA6xVbFyZhWT/view
 
-This dataset contains information of a number of animations and points given by different users to these animations in the form of two CSV files.
+This dataset contains information of some animations and the points given by different users to these animations.
 
 Note: in order to use the data in the dataset, various pre-processing is required
 

@@ -16,7 +16,7 @@ In this section, we used item-based collaborative filtering. We implemented the 
 
 Section 2: Content-Based Recommendation 
 
-In this section, we performed the content-based recommendation on the animations that a user has watched. Now we can recommend new animations to each user according to the information available from different animations.
+In this section, we performed the content-based recommendation on the animations that a user has watched. Now we can recommend new animations to the user according to the information available from different animations.
 
 ![recommendation-system11](https://user-images.githubusercontent.com/47056654/195469234-5b738a5f-c9eb-4429-9ac8-9f7dea6362a6.jpg)
 

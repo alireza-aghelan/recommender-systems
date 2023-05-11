@@ -1,4 +1,4 @@
-# recommender-systems
+# Recommender-Systems
 
 In this project, we make an anime recommender system for the given dataset.
 

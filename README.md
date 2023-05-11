@@ -6,7 +6,7 @@ The download link of the dataset:
 
 https://drive.google.com/file/d/1qgvmZEOJiyb2Lkh3VSPwjA6xVbFyZhWT/view
 
-This dataset includes anime and rating files. The anime file contains the information of a large number of animations and the rating file contains the points that users have given to different animations.
+This dataset includes anime and rating files. The anime file contains the information of a large number of animations and the rating file contains the scores that users have given to different animations.
 
 Section 1: Collaborative Filtering
 

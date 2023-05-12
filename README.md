@@ -16,11 +16,11 @@ In this section, we implement the item-based collaborative filtering method on t
 
 # Section 2: Content-Based Recommendation 
 
-In this section, we perform the content-based recommendation on the animes that a user has watched. Now we can recommend new animes to the user according to the information available from different animes.
+In this section, we perform the content-based recommendation method on the animes that a user has watched. Now we can recommend new animes to the user according to the information available from different animes.
 
 ![recommendation-system11](https://user-images.githubusercontent.com/47056654/195469234-5b738a5f-c9eb-4429-9ac8-9f7dea6362a6.jpg)
 
 # Section 3 
 
-In the last part, we try to get a better result than the previous two methods by using a combination of content-based recommendation and collaborative filtering methods. We start with the content-based recommendation and obtain the IDs of animes that are related to the user's interest. In the next step, in the rating dataset, we keep the records that contain these IDs and delete the rest. Finally, we implement collaborative filtering to the smaller rating dataset.
+In the last part, we try to get a better result than the previous two methods by using a combination of content-based recommendation and collaborative filtering methods. We start with the content-based recommendation method and obtain the IDs of animes that are related to the user's interest. In the next step, in the rating dataset, we keep the records that contain these IDs and delete the rest. Finally, we implement the collaborative filtering method on the smaller rating dataset.
 

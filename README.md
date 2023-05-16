@@ -4,7 +4,7 @@ In this project, we make an anime recommender system for the given dataset.
 
 The download link of the dataset:
 
-https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+https://drive.google.com/u/0/uc?id=1mipJf49ZvqD3CArtutXNOJriqdtb9tAH&export=download
 
 This dataset includes anime and rating files. The anime file contains the information of a large number of animes and the rating file contains the scores that users have given to different animes.
 

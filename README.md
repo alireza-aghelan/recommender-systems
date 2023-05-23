@@ -10,7 +10,7 @@ This dataset includes anime and rating files. The anime file contains the inform
 
 # Section 1: Collaborative Filtering
 
-In this section, we implement the item-based collaborative filtering method on the scores given by users to different animes. Now we can recommend new animes to users based on scores. Note: In cases where the user has not rated any animes, this method cannot recommend an anime to the user.
+In this section, we implement the item-based collaborative filtering method on the scores given by users to different animes. Now we can recommend new animes to users based on scores. Note: In cases where the user has not rated any animes, this method cannot recommend an anime.
 
 ![1_3ALliiz9hG79_2xopzgyrQ 2 57 20 AM](https://user-images.githubusercontent.com/47056654/195467508-cf80c6ca-fae4-49a3-8144-c67da48b32b0.jpg)
 

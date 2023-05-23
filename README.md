@@ -10,7 +10,7 @@ This dataset includes anime and rating files. The anime file contains the inform
 
 # Section 1: Collaborative Filtering
 
-In this section, we implement the item-based collaborative filtering method on the scores given by users to different animes. Now we can recommend new animes to users based on scores. Note: In cases where the user has not rated any anime, this method cannot recommend an anime to the user.
+In this section, we implement the item-based collaborative filtering method on the scores given by users to different animes. Now we can recommend new animes to users based on scores. Note: In cases where the user has not rated any animes, this method cannot recommend an anime to the user.
 
 ![1_3ALliiz9hG79_2xopzgyrQ 2 57 20 AM](https://user-images.githubusercontent.com/47056654/195467508-cf80c6ca-fae4-49a3-8144-c67da48b32b0.jpg)
 
@@ -22,5 +22,5 @@ In this section, we perform the content-based recommendation method on the anime
 
 # Section 3 
 
-In the last part, we try to get a better result than the previous two methods by using a combination of content-based recommendation and collaborative filtering methods. We start with the content-based recommendation method and obtain the IDs of animes that are related to the user's interest. In the next step, in the rating dataset, we keep the records that contain these IDs and delete the rest. Finally, we implement the collaborative filtering method on the smaller rating dataset. In cases where the user has not rated any anime, only the content-based method has been used to recommend the anime.
+In the last part, we try to get a better result than the previous two methods by using a combination of content-based recommendation and collaborative filtering methods. We start with the content-based recommendation method and obtain the IDs of animes that are related to the user's interest. In the next step, in the rating dataset, we keep the records that contain these IDs and delete the rest. Finally, we implement the collaborative filtering method on the smaller rating dataset. In cases where the user has not rated any animes, only the content-based method has been used to recommend the animes.
 

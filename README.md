@@ -12,9 +12,13 @@ This dataset includes anime and rating files. The anime file contains the inform
 
 In this section, we implement the item-based collaborative filtering method on the scores given by users to different animes. Now we can recommend new animes to users based on scores. Note: In cases where the user has not rated any animes, this method cannot recommend an anime.
 
+![1](https://github.com/alireza-aghelan/recommender-systems/assets/47056654/82a4809f-1821-4a26-ae2b-985ac1da1e8f)
+
 # Section 2: Content-Based Recommendation 
 
 In this section, we perform the content-based recommendation method on the animes that a user has watched. Now we can recommend new animes to the user according to the information available from different animes.
+
+![2](https://github.com/alireza-aghelan/recommender-systems/assets/47056654/8323a469-a92b-47a2-8a85-1d440e820f26)
 
 # Section 3 
 
